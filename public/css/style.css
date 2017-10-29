@@ -1,0 +1,15 @@
+.home_page ul{
+    list-style: none;
+    padding: 0px;
+}
+.home_page ul li{
+    margin: 20px 0;
+    line-height: 17px;
+}
+.home_page ul li a{
+    text-decoration: none;
+    color: #0066CC;
+    font-size: 16px;
+    font-weight: bold
+}
+.fc-slats td { height: 4.5em !important; }
